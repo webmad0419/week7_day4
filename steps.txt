@@ -1,0 +1,42 @@
+---- SERVER ----
+
+- crear modelo montaña rusa
+- crear baseURL para la API de montañas rusas
+- crear endopoint /getAllCoasters
+- postman
+
+
+
+---- CLIENT ----
+
+- Bootstrap CSS en public/index.html
+- Router en index.js
+- Creat sevicio getAllCoasters() en services/
+- Crear componente coasters-list
+- Montar componente en App.js
+
+
+
+---- ERRROR DE CORS : SERVER ----
+
+- Instalar dependencia CORS
+
+
+
+--- CLIENT ---
+
+- Crear componente CoasterCard
+- Enrutado SPA
+- Servicio getOneCoaster
+
+
+--- SERVER ---
+
+- Endpoint getOneCoaster
+
+
+
+--- CLIENT ---
+
+- Crear componente CoasterDetail
+- Enrutar su montaje en App
